@@ -15,6 +15,7 @@
             <value>.jsp</value>
         </property>
     </bean>
+    <bean id="cdaoimpl" class="MyApp.dao.ContactDAOImpl"></bean>
     
 
 </beans>
